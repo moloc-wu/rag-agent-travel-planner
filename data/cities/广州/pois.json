@@ -1,0 +1,424 @@
+{
+  "_note": "高德 Web 服务实时检索（广州）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "广州",
+  "hotel": {
+    "name": "广州市中心（住宿点）",
+    "lng": 113.264499,
+    "lat": 23.130061
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "广州起义烈士陵园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 113.285865,
+      "lat": 23.128824,
+      "open": "06:30",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 50.0,
+      "base": 85.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "陈家祠堂",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 113.245158,
+      "lat": 23.126692,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "三元宫",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.263246,
+      "lat": 23.134993,
+      "open": "08:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am04",
+      "name": "大佛寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.268027,
+      "lat": 23.122373,
+      "open": "07:30",
+      "close": "21:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am05",
+      "name": "沙面岛",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.244707,
+      "lat": 23.106802,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "永庆坊",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.237495,
+      "lat": 23.114821,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "广州塔",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.324521,
+      "lat": 23.106428,
+      "open": "09:30",
+      "close": "22:30",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "广州市白云山风景名胜区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.297041,
+      "lat": 23.180245,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "费体力",
+      "effort_reason": "比城市中心高 309 米"
+    },
+    {
+      "id": "am09",
+      "name": "花城广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 113.324593,
+      "lat": 23.120498,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am10",
+      "name": "广东省博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.326369,
+      "lat": 23.114763,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am11",
+      "name": "广东美术馆(白鹅潭馆区)",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 113.240088,
+      "lat": 23.101031,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am12",
+      "name": "广东美术馆(二沙岛馆区)",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 113.307228,
+      "lat": 23.10795,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am13",
+      "name": "越秀公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.265561,
+      "lat": 23.140096,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "南越王博物院(王墓展区)",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.261015,
+      "lat": 23.137823,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am15",
+      "name": "流花湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.251095,
+      "lat": 23.137289,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am16",
+      "name": "光孝寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.256587,
+      "lat": 23.129347,
+      "open": "08:30",
+      "close": "16:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am17",
+      "name": "广州兰圃",
+      "category": "公园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.260471,
+      "lat": 23.143731,
+      "open": "08:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am18",
+      "name": "南越王博物院(王宫展区)",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.269853,
+      "lat": 23.126878,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am19",
+      "name": "珠江夜游(天字码头)",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.271155,
+      "lat": 23.114704,
+      "open": "18:30",
+      "close": "23:40",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "六榕寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.260083,
+      "lat": 23.127887,
+      "open": "08:00",
+      "close": "16:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am21",
+      "name": "麓湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.281794,
+      "lat": 23.151091,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am22",
+      "name": "广州动物园",
+      "category": "动物园",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 113.305342,
+      "lat": 23.140884,
+      "open": "08:00",
+      "close": "16:30",
+      "visit_min": 180,
+      "ticket": 120.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=动物园"
+    },
+    {
+      "id": "am23",
+      "name": "东山湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.292052,
+      "lat": 23.115193,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am24",
+      "name": "荔湾湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.231472,
+      "lat": 23.121297,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    }
+  ]
+}

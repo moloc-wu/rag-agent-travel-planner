@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（成都）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "成都",
+  "hotel": {
+    "name": "成都十八步岛酒店（住宿点）",
+    "lng": 104.077568,
+    "lat": 30.542289
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "铁像寺水街",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.050038,
+      "lat": 30.557844,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "成都武侯祠博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.047992,
+      "lat": 30.646168,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am03",
+      "name": "人民公园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 104.057641,
+      "lat": 30.65699,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "宽窄巷子景区",
+      "category": "旅游景点",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 104.053307,
+      "lat": 30.663869,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "东郊记忆",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.122906,
+      "lat": 30.668697,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "文殊院",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.072527,
+      "lat": 30.675418,
+      "open": "08:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am07",
+      "name": "成都博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.063749,
+      "lat": 30.657297,
+      "open": "09:00",
+      "close": "18:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am08",
+      "name": "成都杜甫草堂博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.028514,
+      "lat": 30.660153,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am09",
+      "name": "成都市美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 104.024507,
+      "lat": 30.712788,
+      "open": "10:00",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am10",
+      "name": "成都金融城双子塔",
+      "category": "商务写字楼",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.064759,
+      "lat": 30.582588,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=商务写字楼，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "交子公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 104.072828,
+      "lat": 30.582568,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am12",
+      "name": "双子塔夜景打卡点",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.060512,
+      "lat": 30.582369,
+      "open": "19:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "大源中央公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 104.049182,
+      "lat": 30.549059,
+      "open": "08:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "东湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 104.087899,
+      "lat": 30.616051,
+      "open": "07:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am15",
+      "name": "望江楼公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 104.092217,
+      "lat": 30.629277,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am16",
+      "name": "安顺廊桥",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.085716,
+      "lat": 30.641325,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "海合安成都极地海洋公园",
+      "category": "水族馆",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 104.073287,
+      "lat": 30.49487,
+      "open": "09:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=水族馆"
+    },
+    {
+      "id": "am18",
+      "name": "三和老爷车博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.04128,
+      "lat": 30.597103,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am19",
+      "name": "四川大学博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.090711,
+      "lat": 30.636303,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am20",
+      "name": "四川博物院",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 104.034127,
+      "lat": 30.660792,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am21",
+      "name": "广汇美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 104.080644,
+      "lat": 30.436529,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am22",
+      "name": "成都蓝顶美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 104.153069,
+      "lat": 30.560893,
+      "open": "10:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am23",
+      "name": "A4X艺术中心",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 104.070313,
+      "lat": 30.467191,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am24",
+      "name": "梵高星空艺术馆(成都春熙路旗舰店)",
+      "category": "休闲场所",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 104.077006,
+      "lat": 30.65691,
+      "open": "09:30",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=休闲场所，按一般处理"
+    }
+  ]
+}

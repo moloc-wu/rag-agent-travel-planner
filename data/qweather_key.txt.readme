@@ -1,0 +1,3 @@
+把和风天气的 API Key 贴进同目录的 qweather_key.txt（一行，别带引号）就能用。
+注册地址：https://dev.qweather.com/  免费版够跑演示。
+不填也能跑，行程页每天显示「天气未接入」。

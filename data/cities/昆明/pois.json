@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（昆明）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "昆明",
+  "hotel": {
+    "name": "昆明市中心（住宿点）",
+    "lng": 102.833669,
+    "lat": 24.88149
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "昆明捞渔河湿地公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.769657,
+      "lat": 24.822016,
+      "open": "08:30",
+      "close": "20:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am02",
+      "name": "滇池",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.714853,
+      "lat": 24.912656,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "云南省博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.753517,
+      "lat": 24.949455,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am04",
+      "name": "海洪湿地",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.686037,
+      "lat": 24.954465,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am05",
+      "name": "滇池海埂公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.658412,
+      "lat": 24.958925,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am06",
+      "name": "斗南湿地公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.76954,
+      "lat": 24.893031,
+      "open": "09:00",
+      "close": "19:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am07",
+      "name": "斗南七彩花海",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.773428,
+      "lat": 24.892304,
+      "open": "09:00",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "官渡古镇",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.755581,
+      "lat": 24.955125,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 60.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "昆明海晏村网红沙滩",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.764806,
+      "lat": 24.807657,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 59 米"
+    },
+    {
+      "id": "am10",
+      "name": "潘祥记梦橙花园",
+      "category": "住宅小区",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.802901,
+      "lat": 24.829907,
+      "open": "09:00",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=住宅小区，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "七彩云南·欢乐世界",
+      "category": "游乐场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.740062,
+      "lat": 24.769433,
+      "open": "10:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=游乐场"
+    },
+    {
+      "id": "am12",
+      "name": "白鹿森林",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.792904,
+      "lat": 25.038462,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 75 米"
+    },
+    {
+      "id": "am13",
+      "name": "洛龙公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.819208,
+      "lat": 24.89031,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "昆明海趣花都海洋世界",
+      "category": "水族馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.789781,
+      "lat": 24.902063,
+      "open": "09:30",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=水族馆"
+    },
+    {
+      "id": "am15",
+      "name": "王官湿地公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 102.760159,
+      "lat": 24.89937,
+      "open": "07:00",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am16",
+      "name": "七彩云南古滇度假区",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.761826,
+      "lat": 24.771455,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "阳宗海风景区",
+      "category": "旅游景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 103.0033,
+      "lat": 24.9552,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "云南民族博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.6692,
+      "lat": 24.965068,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am19",
+      "name": "罗旭美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 102.828977,
+      "lat": 24.983347,
+      "open": "09:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 70 米"
+    },
+    {
+      "id": "am20",
+      "name": "关上老街",
+      "category": "特色商业街",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 102.743053,
+      "lat": 25.009673,
+      "open": "08:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am21",
+      "name": "公园1903梦幻联邦乐园",
+      "category": "旅游景点",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 102.67606,
+      "lat": 24.9882,
+      "open": "10:00",
+      "close": "21:30",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "引力时空",
+      "category": "娱乐场所",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.762222,
+      "lat": 24.977476,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=娱乐场所，按一般处理"
+    },
+    {
+      "id": "am23",
+      "name": "宝华寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.71991,
+      "lat": 24.966322,
+      "open": "08:30",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am24",
+      "name": "财神庙",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 102.744627,
+      "lat": 25.014487,
+      "open": "07:30",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    }
+  ]
+}

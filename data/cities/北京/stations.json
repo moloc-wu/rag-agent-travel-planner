@@ -1,0 +1,18 @@
+{
+ "_note": "北京主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "北京",
+ "stations": [
+  {
+   "name": "北京南站",
+   "query": "北京南",
+   "code": "VNP",
+   "lat": 39.865246,
+   "lng": 116.378517,
+   "address": "永外大街车站路12号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

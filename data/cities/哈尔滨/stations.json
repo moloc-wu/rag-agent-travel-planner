@@ -1,0 +1,18 @@
+{
+ "_note": "哈尔滨主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "哈尔滨",
+ "stations": [
+  {
+   "name": "哈尔滨西站",
+   "query": "哈尔滨西",
+   "code": "VAB",
+   "lat": 45.707228,
+   "lng": 126.577304,
+   "address": "哈西街道哈尔滨大街501号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

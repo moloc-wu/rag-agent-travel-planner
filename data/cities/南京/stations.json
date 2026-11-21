@@ -1,0 +1,18 @@
+{
+ "_note": "南京主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "南京",
+ "stations": [
+  {
+   "name": "南京南站",
+   "query": "南京南",
+   "code": "NKH",
+   "lat": 31.968763,
+   "lng": 118.798034,
+   "address": "雨花街道玉兰路98号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

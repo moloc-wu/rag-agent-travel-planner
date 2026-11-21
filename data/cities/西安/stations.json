@@ -1,0 +1,18 @@
+{
+ "_note": "西安主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "西安",
+ "stations": [
+  {
+   "name": "西安北站",
+   "query": "西安北",
+   "code": "EAY",
+   "lat": 34.37666,
+   "lng": 108.938757,
+   "address": "草滩街道元朔大道",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

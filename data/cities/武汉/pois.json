@@ -1,0 +1,423 @@
+{
+  "_note": "高德 Web 服务实时检索（武汉）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "武汉",
+  "hotel": {
+    "name": "城市优选酒店(武汉江汉路步行街汉口江滩店)（住宿点）",
+    "lng": 114.300866,
+    "lat": 30.590183
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "湖北省博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 114.365446,
+      "lat": 30.561506,
+      "open": "09:00",
+      "close": "20:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am02",
+      "name": "汉口江滩",
+      "category": "公园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.319404,
+      "lat": 30.610162,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am03",
+      "name": "咸安坊",
+      "category": "美容美发店",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.295924,
+      "lat": 30.582745,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=美容美发店，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "解放公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.298029,
+      "lat": 30.608418,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am05",
+      "name": "江汉关博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.297308,
+      "lat": 30.576075,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am06",
+      "name": "黄鹤楼",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.302467,
+      "lat": 30.544649,
+      "open": "08:30",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "纵横体育公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.297853,
+      "lat": 30.60107,
+      "open": "07:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am08",
+      "name": "粮道街美食街",
+      "category": "购物相关场所",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.314053,
+      "lat": 30.546718,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=购物相关场所，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "盘小宝儿童成长乐园(武汉店)",
+      "category": "游乐场",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 114.222634,
+      "lat": 30.585274,
+      "open": "09:30",
+      "close": "21:00",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=游乐场"
+    },
+    {
+      "id": "am10",
+      "name": "东湖之森·飞越丛林探险乐园",
+      "category": "旅游景点",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 114.407638,
+      "lat": 30.545991,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "巴公房子",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.299831,
+      "lat": 30.586141,
+      "open": "10:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "武昌江滩",
+      "category": "公园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.323074,
+      "lat": 30.588254,
+      "open": "06:00",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am13",
+      "name": "武汉江滩",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.304232,
+      "lat": 30.585612,
+      "open": "05:30",
+      "close": "22:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "中山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.271559,
+      "lat": 30.58665,
+      "open": "06:00",
+      "close": "22:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am15",
+      "name": "汉口江滩-观江台",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.301715,
+      "lat": 30.581687,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "昙华林",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.308791,
+      "lat": 30.55194,
+      "open": "09:00",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "铁机路江滩灯塔",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.338215,
+      "lat": 30.607527,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "沙湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.351107,
+      "lat": 30.572224,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am19",
+      "name": "龟山风景区",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.275707,
+      "lat": 30.555045,
+      "open": "07:00",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "费体力",
+      "effort_reason": "名字含「山」"
+    },
+    {
+      "id": "am20",
+      "name": "晴川阁",
+      "category": "省级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.284786,
+      "lat": 30.555551,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 25.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=省级景点，按一般处理"
+    },
+    {
+      "id": "am21",
+      "name": "户部巷",
+      "category": "特色商业街",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 114.298068,
+      "lat": 30.547412,
+      "open": "08:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am22",
+      "name": "沙湖公园C区",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.326697,
+      "lat": 30.557673,
+      "open": "06:30",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am23",
+      "name": "武汉观光游船(中华路1号码头)",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.294918,
+      "lat": 30.550512,
+      "open": "06:30",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 128.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am24",
+      "name": "武汉博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.256463,
+      "lat": 30.611407,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    }
+  ]
+}

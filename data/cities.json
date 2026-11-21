@@ -1,0 +1,269 @@
+{
+  "default": "长沙",
+  "cities": {
+    "长沙": {
+      "name": "长沙",
+      "pois": "cities/长沙/pois.json",
+      "matrix": "cities/长沙/matrix.json",
+      "hotel": {
+        "name": "五一广场（住宿点）",
+        "lng": 112.97734,
+        "lat": 28.1965
+      },
+      "poi_count": 44,
+      "updated": "2026-11-07"
+    },
+    "北京": {
+      "name": "北京",
+      "pois": "cities/北京/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "北京丽亭酒店（住宿点）",
+        "lng": 116.419383,
+        "lat": 39.916712
+      },
+      "poi_count": 30,
+      "updated": "2026-11-07"
+    },
+    "杭州": {
+      "name": "杭州",
+      "pois": "cities/杭州/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "花田赞酒店(西湖浙一医院店)（住宿点）",
+        "lng": 120.172853,
+        "lat": 30.252641
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "拉萨": {
+      "name": "拉萨",
+      "pois": "cities/拉萨/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "拉萨漫居精品民宿（住宿点）",
+        "lng": 91.151904,
+        "lat": 29.661561
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "西宁": {
+      "name": "西宁",
+      "pois": "cities/西宁/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "西宁市中心（住宿点）",
+        "lng": 101.758249,
+        "lat": 36.676027
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "敦煌": {
+      "name": "敦煌",
+      "pois": "cities/敦煌/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "观沙州酒店（住宿点）",
+        "lng": 94.667665,
+        "lat": 40.139758
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "呼伦贝尔": {
+      "name": "呼伦贝尔",
+      "pois": "cities/呼伦贝尔/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "呼伦贝尔市中心（住宿点）",
+        "lng": 119.77845,
+        "lat": 49.166536
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "天津": {
+      "name": "天津",
+      "pois": "cities/天津/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "天津然居观影民宿（住宿点）",
+        "lng": 117.168437,
+        "lat": 39.077091
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "上海": {
+      "name": "上海",
+      "pois": "cities/上海/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "青季MINI酒店(上海火车站大悦城店)（住宿点）",
+        "lng": 121.468775,
+        "lat": 31.245175
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "苏州": {
+      "name": "苏州",
+      "pois": "cities/苏州/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "如意酒店(石路广济南路地铁站)（住宿点）",
+        "lng": 120.606856,
+        "lat": 31.302789
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "南京": {
+      "name": "南京",
+      "pois": "cities/南京/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "汗融快捷酒店（住宿点）",
+        "lng": 118.81,
+        "lat": 32.033085
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "西安": {
+      "name": "西安",
+      "pois": "cities/西安/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "樱花酒店(西安市中医医院地铁站店)（住宿点）",
+        "lng": 108.965709,
+        "lat": 34.346768
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "洛阳": {
+      "name": "洛阳",
+      "pois": "cities/洛阳/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "比邻青年客栈(洛阳龙门站店)（住宿点）",
+        "lng": 112.460061,
+        "lat": 34.600105
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "成都": {
+      "name": "成都",
+      "pois": "cities/成都/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "成都十八步岛酒店（住宿点）",
+        "lng": 104.077568,
+        "lat": 30.542289
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "重庆": {
+      "name": "重庆",
+      "pois": "cities/重庆/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "徐州酒店(重庆大礼堂店)（住宿点）",
+        "lng": 106.552826,
+        "lat": 29.559979
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "武汉": {
+      "name": "武汉",
+      "pois": "cities/武汉/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "城市优选酒店(武汉江汉路步行街汉口江滩店)（住宿点）",
+        "lng": 114.300866,
+        "lat": 30.590183
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "广州": {
+      "name": "广州",
+      "pois": "cities/广州/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "广州市中心（住宿点）",
+        "lng": 113.264499,
+        "lat": 23.130061
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "深圳": {
+      "name": "深圳",
+      "pois": "cities/深圳/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "深圳市中心（住宿点）",
+        "lng": 114.057939,
+        "lat": 22.543527
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "厦门": {
+      "name": "厦门",
+      "pois": "cities/厦门/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "厦门SkyFun·天悦海景酒店(中山路轮渡码头店)（住宿点）",
+        "lng": 118.073731,
+        "lat": 24.45658
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "青岛": {
+      "name": "青岛",
+      "pois": "cities/青岛/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "金海岸快捷宾馆（住宿点）",
+        "lng": 120.365328,
+        "lat": 36.090163
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "昆明": {
+      "name": "昆明",
+      "pois": "cities/昆明/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "昆明市中心（住宿点）",
+        "lng": 102.833669,
+        "lat": 24.88149
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    },
+    "哈尔滨": {
+      "name": "哈尔滨",
+      "pois": "cities/哈尔滨/pois.json",
+      "matrix": "",
+      "hotel": {
+        "name": "韵江快捷宾馆(哈尔滨融创乐园店)（住宿点）",
+        "lng": 126.526687,
+        "lat": 45.809702
+      },
+      "poi_count": 24,
+      "updated": "2026-11-08"
+    }
+  }
+}

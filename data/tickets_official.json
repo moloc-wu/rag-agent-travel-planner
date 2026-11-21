@@ -1,0 +1,9 @@
+{
+  "_readme": "门票人工核对表。结构：{城市: {景点名: {ticket: 价格, note: 说明}}}。import_data.py 会用这里的价覆盖 poi.ticket，并把 ticket_source 标成 official；没在这里的保持 estimated。核过的才往里写，凭记忆猜的别写——标错了比标『估算』更糟。",
+  "_example": {
+    "北京": {
+      "故宫博物院": { "ticket": 60, "note": "旺季(4-10月)60，淡季(11-3月)40；这里填旺季" }
+    }
+  },
+  "cities": {}
+}

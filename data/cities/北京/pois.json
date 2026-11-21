@@ -1,0 +1,532 @@
+{
+  "_note": "高德 Web 服务实时检索（北京）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "北京",
+  "hotel": {
+    "name": "北京丽亭酒店（住宿点）",
+    "lng": 116.419383,
+    "lat": 39.916712
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "天安门广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景",
+        "网红打卡"
+      ],
+      "lng": 116.397755,
+      "lat": 39.903182,
+      "open": "05:00",
+      "close": "20:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am02",
+      "name": "故宫博物院",
+      "category": "博物馆",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 116.397029,
+      "lat": 39.917839,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 60.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am03",
+      "name": "天坛公园",
+      "category": "公园",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 116.410829,
+      "lat": 39.881913,
+      "open": "06:30",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 15.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am04",
+      "name": "中国国家博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 116.401304,
+      "lat": 39.905374,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am05",
+      "name": "中国工艺美术馆(中国非物质文化遗产馆)",
+      "category": "美术馆",
+      "tags": [
+        "艺术",
+        "网红打卡"
+      ],
+      "lng": 116.39758,
+      "lat": 40.003726,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am06",
+      "name": "罗红摄影艺术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术",
+        "网红打卡"
+      ],
+      "lng": 116.574114,
+      "lat": 40.042789,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am07",
+      "name": "北海公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 116.391802,
+      "lat": 39.928775,
+      "open": "06:30",
+      "close": "20:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am08",
+      "name": "景山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 116.396551,
+      "lat": 39.925875,
+      "open": "06:30",
+      "close": "20:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am09",
+      "name": "王府井步行街",
+      "category": "步行街",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 116.412007,
+      "lat": 39.913479,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=步行街"
+    },
+    {
+      "id": "am10",
+      "name": "南锣鼓巷",
+      "category": "风景名胜",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 116.402394,
+      "lat": 39.937182,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "国家大剧院",
+      "category": "剧场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.389814,
+      "lat": 39.904909,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=剧场"
+    },
+    {
+      "id": "am12",
+      "name": "什刹海",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.385121,
+      "lat": 39.941893,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "中国美术馆",
+      "category": "博物馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 116.408939,
+      "lat": 39.925255,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am14",
+      "name": "雍和宫",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.417296,
+      "lat": 39.947239,
+      "open": "09:00",
+      "close": "16:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "恭王府博物馆",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.386315,
+      "lat": 39.937222,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 40.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "地坛公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 116.414443,
+      "lat": 39.953777,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am17",
+      "name": "鼓楼",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.395937,
+      "lat": 39.940781,
+      "open": "09:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "今日美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 116.467689,
+      "lat": 39.900089,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am19",
+      "name": "奥加美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 116.448095,
+      "lat": 39.940655,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am20",
+      "name": "中国艺术研究院油画院",
+      "category": "培训机构",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.54337,
+      "lat": 39.900199,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=培训机构，按一般处理"
+    },
+    {
+      "id": "am21",
+      "name": "北京画院美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 116.473244,
+      "lat": 39.933108,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am22",
+      "name": "中央美术学院-美术馆(花家地新馆)",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 116.465331,
+      "lat": 39.984114,
+      "open": "09:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am23",
+      "name": "北京时代美术馆(华熙LIVE·五棵松店)",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 116.278704,
+      "lat": 39.910492,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am24",
+      "name": "牛街清真满恒記(平安里西大街店)",
+      "category": "火锅店",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.367733,
+      "lat": 39.93208,
+      "open": "11:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=火锅店，按一般处理"
+    },
+    {
+      "id": "am25",
+      "name": "北京大栅栏",
+      "category": "特色商业街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.395042,
+      "lat": 39.895715,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am26",
+      "name": "朝阳公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 116.482276,
+      "lat": 39.944093,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am27",
+      "name": "国家植物园",
+      "category": "植物园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 116.210714,
+      "lat": 39.998036,
+      "open": "06:00",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 68 米"
+    },
+    {
+      "id": "am28",
+      "name": "白云观",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.343778,
+      "lat": 39.901266,
+      "open": "08:30",
+      "close": "16:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am29",
+      "name": "中山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 116.394407,
+      "lat": 39.910707,
+      "open": "06:30",
+      "close": "20:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am30",
+      "name": "太庙",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 116.399898,
+      "lat": 39.911374,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "_note": "拉萨主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "拉萨",
+ "stations": [
+  {
+   "name": "拉萨站",
+   "query": "拉萨",
+   "code": "LSO",
+   "lat": 29.623017,
+   "lng": 91.070434,
+   "address": "通站路",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

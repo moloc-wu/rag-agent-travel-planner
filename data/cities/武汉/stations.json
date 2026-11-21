@@ -1,0 +1,18 @@
+{
+ "_note": "武汉主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "武汉",
+ "stations": [
+  {
+   "name": "武汉站",
+   "query": "武汉",
+   "code": "WHN",
+   "lat": 30.606981,
+   "lng": 114.424338,
+   "address": "和平街道白云路",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

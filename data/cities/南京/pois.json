@@ -1,0 +1,427 @@
+{
+  "_note": "高德 Web 服务实时检索（南京）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "南京",
+  "hotel": {
+    "name": "汗融快捷酒店（住宿点）",
+    "lng": 118.81,
+    "lat": 32.033085
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "总统府",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 118.797398,
+      "lat": 32.044228,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "夫子庙秦淮风光带",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 118.788972,
+      "lat": 32.020699,
+      "open": "09:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "南京博物院",
+      "category": "博物馆",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 118.825064,
+      "lat": 32.040802,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am04",
+      "name": "南京梧桐大道(陵园路)",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 118.841586,
+      "lat": 32.04605,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 50.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "中山陵景区",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 118.854097,
+      "lat": 32.054508,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 50.0,
+      "base": 79.5,
+      "effort": "费体力",
+      "effort_reason": "台阶多，人工标"
+    },
+    {
+      "id": "am06",
+      "name": "古鸡鸣寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.795246,
+      "lat": 32.061061,
+      "open": "07:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am07",
+      "name": "玄武湖景区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.812688,
+      "lat": 32.069455,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "明孝陵景区",
+      "category": "世界遗产",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.840463,
+      "lat": 32.051926,
+      "open": "07:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 50.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "钟山风景名胜区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.844262,
+      "lat": 32.064908,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 139 米"
+    },
+    {
+      "id": "am10",
+      "name": "老门东",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.787645,
+      "lat": 32.011604,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "南京利济巷慰安所旧址陈列馆",
+      "category": "展览馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.79771,
+      "lat": 32.038984,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=展览馆"
+    },
+    {
+      "id": "am12",
+      "name": "红山森林动物园",
+      "category": "动物园",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 118.802932,
+      "lat": 32.091808,
+      "open": "08:30",
+      "close": "16:30",
+      "visit_min": 180,
+      "ticket": 120.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=动物园"
+    },
+    {
+      "id": "am13",
+      "name": "毗卢寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.803341,
+      "lat": 32.042875,
+      "open": "08:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am14",
+      "name": "白马公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.816692,
+      "lat": 32.060725,
+      "open": "06:00",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am15",
+      "name": "太阳宫广场",
+      "category": "风景名胜",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 118.81386,
+      "lat": 32.064285,
+      "open": "08:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "瞻园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.785163,
+      "lat": 32.021034,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "南京中山植物园",
+      "category": "植物园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.831762,
+      "lat": 32.0554,
+      "open": "08:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=植物园"
+    },
+    {
+      "id": "am18",
+      "name": "朝天宫",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.77532,
+      "lat": 32.034344,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am19",
+      "name": "侵华日军南京大屠杀遇难同胞纪念馆",
+      "category": "纪念馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.742372,
+      "lat": 32.035217,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=纪念馆"
+    },
+    {
+      "id": "am20",
+      "name": "南京地质博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.807343,
+      "lat": 32.044617,
+      "open": "09:30",
+      "close": "16:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am21",
+      "name": "颐和路歪脖子树",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.767674,
+      "lat": 32.064034,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "灵谷景区",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.866392,
+      "lat": 32.056287,
+      "open": "06:30",
+      "close": "18:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 56 米"
+    },
+    {
+      "id": "am23",
+      "name": "莫愁湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.759541,
+      "lat": 32.03383,
+      "open": "06:00",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am24",
+      "name": "熙南里",
+      "category": "特色商业街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.781344,
+      "lat": 32.024967,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    }
+  ]
+}

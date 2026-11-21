@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（苏州）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "苏州",
+  "hotel": {
+    "name": "如意酒店(石路广济南路地铁站)（住宿点）",
+    "lng": 120.606856,
+    "lat": 31.302789
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "西园戒幢律寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.587334,
+      "lat": 31.314823,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am02",
+      "name": "七里山塘景区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.602105,
+      "lat": 31.317059,
+      "open": "08:00",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "留园",
+      "category": "世界遗产",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.59226,
+      "lat": 31.315369,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "平江路",
+      "category": "特色商业街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.634556,
+      "lat": 31.313969,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am05",
+      "name": "虎丘山风景区",
+      "category": "世界遗产",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.580016,
+      "lat": 31.334584,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "费体力",
+      "effort_reason": "名字含「山」"
+    },
+    {
+      "id": "am06",
+      "name": "拙政园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.629211,
+      "lat": 31.324194,
+      "open": "07:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "观前街",
+      "category": "特色商业街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.625637,
+      "lat": 31.310624,
+      "open": "16:30",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am08",
+      "name": "苏州当代美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 120.713352,
+      "lat": 31.315192,
+      "open": "10:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am09",
+      "name": "苏州本色美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 120.671814,
+      "lat": 31.254203,
+      "open": "10:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am10",
+      "name": "寒山寺",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.568391,
+      "lat": 31.310469,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "盘门景区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.617335,
+      "lat": 31.288477,
+      "open": "08:30",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "苏州博物馆西馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.548055,
+      "lat": 31.289366,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am13",
+      "name": "艺圃",
+      "category": "世界遗产",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.609229,
+      "lat": 31.313026,
+      "open": "07:30",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "沧浪亭",
+      "category": "世界遗产",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.625746,
+      "lat": 31.294656,
+      "open": "07:30",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "狮山文化广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.54431,
+      "lat": 31.290714,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am16",
+      "name": "怡园",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.621266,
+      "lat": 31.307521,
+      "open": "07:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "网师园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.63377,
+      "lat": 31.298075,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "苏州市桂花公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.642676,
+      "lat": 31.291563,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am19",
+      "name": "苏州上方山国家森林公园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.583049,
+      "lat": 31.245575,
+      "open": "07:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "费体力",
+      "effort_reason": "要上山，人工标"
+    },
+    {
+      "id": "am20",
+      "name": "石湖景区",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.597414,
+      "lat": 31.242582,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am21",
+      "name": "耦园",
+      "category": "世界遗产",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.63835,
+      "lat": 31.31623,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "东园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.638839,
+      "lat": 31.320822,
+      "open": "07:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am23",
+      "name": "苏州吴文化博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.648596,
+      "lat": 31.253742,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am24",
+      "name": "H+美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 120.597875,
+      "lat": 31.313525,
+      "open": "10:00",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    }
+  ]
+}

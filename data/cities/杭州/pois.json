@@ -1,0 +1,427 @@
+{
+  "_note": "高德 Web 服务实时检索（杭州）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "杭州",
+  "hotel": {
+    "name": "花田赞酒店(西湖浙一医院店)（住宿点）",
+    "lng": 120.172853,
+    "lat": 30.252641
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "杭州西湖风景名胜区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 120.121358,
+      "lat": 30.222692,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 102 米"
+    },
+    {
+      "id": "am02",
+      "name": "浙江美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术",
+        "网红打卡"
+      ],
+      "lng": 120.156894,
+      "lat": 30.231049,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 51 米"
+    },
+    {
+      "id": "am03",
+      "name": "湖滨步行街",
+      "category": "步行街",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.162923,
+      "lat": 30.254158,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=步行街"
+    },
+    {
+      "id": "am04",
+      "name": "雷峰塔景区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.148849,
+      "lat": 30.230934,
+      "open": "08:00",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 30.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "杭州西湖风景名胜区-柳浪闻莺",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.156326,
+      "lat": 30.240389,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "西湖文化广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.163755,
+      "lat": 30.276652,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am07",
+      "name": "西溪国家湿地公园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.061159,
+      "lat": 30.255079,
+      "open": "08:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "杭州西湖风景名胜区-太子湾公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.142177,
+      "lat": 30.22547,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 72 米"
+    },
+    {
+      "id": "am09",
+      "name": "杭州西湖风景名胜区-曲院风荷",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.133333,
+      "lat": 30.249287,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am10",
+      "name": "灵隐寺",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.101406,
+      "lat": 30.240826,
+      "open": "07:30",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "韩美林艺术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 120.119986,
+      "lat": 30.251214,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am12",
+      "name": "良渚文化艺术中心",
+      "category": "科教文化场所",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 120.032341,
+      "lat": 30.365111,
+      "open": "10:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=科教文化场所，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "西泠·武林美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 120.183503,
+      "lat": 30.321132,
+      "open": "09:00",
+      "close": "16:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am14",
+      "name": "天目里美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 120.099355,
+      "lat": 30.265681,
+      "open": "12:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am15",
+      "name": "小树林老成都火锅串串香·盖碗茶(宠物友好店)",
+      "category": "火锅店",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.193168,
+      "lat": 30.172297,
+      "open": "16:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=火锅店，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "元·探索馆",
+      "category": "体育休闲服务场所",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.249841,
+      "lat": 30.21013,
+      "open": "10:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=体育休闲服务场所，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "上天竺法喜讲寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.095362,
+      "lat": 30.227208,
+      "open": "06:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 150 米"
+    },
+    {
+      "id": "am18",
+      "name": "湘湖国家旅游度假区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.217125,
+      "lat": 30.13226,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am19",
+      "name": "浙江省博物馆(之江馆区)",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.101745,
+      "lat": 30.159662,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am20",
+      "name": "钱江世纪公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.237194,
+      "lat": 30.244685,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am21",
+      "name": "清河坊历史文化特色街区",
+      "category": "国家级景点",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.169899,
+      "lat": 30.239827,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "杭州基督教会崇一堂",
+      "category": "教堂",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.208778,
+      "lat": 30.259353,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=教堂"
+    },
+    {
+      "id": "am23",
+      "name": "杭州西湖风景名胜区-湖滨公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.158818,
+      "lat": 30.256583,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am24",
+      "name": "武林广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.163325,
+      "lat": 30.271001,
+      "open": "10:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    }
+  ]
+}

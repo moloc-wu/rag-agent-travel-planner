@@ -1,0 +1,18 @@
+{
+ "_note": "长沙主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "长沙",
+ "stations": [
+  {
+   "name": "长沙南站",
+   "query": "长沙南",
+   "code": "CWQ",
+   "lat": 28.147093,
+   "lng": 113.06551,
+   "address": "花侯路",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

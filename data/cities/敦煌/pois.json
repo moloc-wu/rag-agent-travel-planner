@@ -1,0 +1,423 @@
+{
+  "_note": "高德 Web 服务实时检索（敦煌）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "敦煌",
+  "hotel": {
+    "name": "观沙州酒店（住宿点）",
+    "lng": 94.667665,
+    "lat": 40.139758
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "鸣沙山月牙泉",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 94.680396,
+      "lat": 40.088833,
+      "open": "07:30",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "费体力",
+      "effort_reason": "名字含「山、沙山」"
+    },
+    {
+      "id": "am02",
+      "name": "莫高窟景区",
+      "category": "世界遗产",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.809374,
+      "lat": 40.042511,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 188 米"
+    },
+    {
+      "id": "am03",
+      "name": "敦煌博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.66169,
+      "lat": 40.129241,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am04",
+      "name": "雷音寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.675455,
+      "lat": 40.104999,
+      "open": "08:30",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am05",
+      "name": "敦煌丝路遗产城",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.495782,
+      "lat": 40.043911,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 93 米"
+    },
+    {
+      "id": "am06",
+      "name": "敦煌市光电博览园",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.501341,
+      "lat": 40.080893,
+      "open": "09:00",
+      "close": "11:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 73 米"
+    },
+    {
+      "id": "am07",
+      "name": "敦煌古城",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.51886,
+      "lat": 40.057371,
+      "open": "07:30",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 60.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 71 米"
+    },
+    {
+      "id": "am08",
+      "name": "月牙泉小镇",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.670862,
+      "lat": 40.102116,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "莫高窟景区游客中心",
+      "category": "服务中心",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.76781,
+      "lat": 40.161565,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=服务中心，按一般处理"
+    },
+    {
+      "id": "am10",
+      "name": "敦煌莫高窟-检票处",
+      "category": "售票处",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.80525,
+      "lat": 40.038268,
+      "open": "08:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 192 米"
+    },
+    {
+      "id": "am11",
+      "name": "敦煌画院",
+      "category": "培训机构",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.67031,
+      "lat": 40.110867,
+      "open": "09:00",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=培训机构，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "东街小学",
+      "category": "小学",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.664087,
+      "lat": 40.14353,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=小学，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "敦煌小镇",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.658036,
+      "lat": 40.133768,
+      "open": "09:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "飞天公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.674219,
+      "lat": 40.130282,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am15",
+      "name": "西晋壁画墓",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.748105,
+      "lat": 40.123479,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "敦煌画派美术馆",
+      "category": "旅游景点",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 94.654345,
+      "lat": 40.137159,
+      "open": "09:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "强氏喜阿婆粥饼店(敦煌店)",
+      "category": "清真菜馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.656597,
+      "lat": 40.142432,
+      "open": "10:30",
+      "close": "22:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=清真菜馆，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "敦煌公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.639802,
+      "lat": 40.13689,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am19",
+      "name": "鸣沙山月牙泉东门(游客中心)",
+      "category": "信息咨询中心",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.702725,
+      "lat": 40.117725,
+      "open": "05:00",
+      "close": "20:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "费体力",
+      "effort_reason": "名字含「山、沙山」"
+    },
+    {
+      "id": "am20",
+      "name": "敦煌光电产业园区观景台",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.50905,
+      "lat": 40.059789,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 88 米"
+    },
+    {
+      "id": "am21",
+      "name": "老街坊生活超市(华优店)",
+      "category": "超市",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 94.672252,
+      "lat": 40.149493,
+      "open": "08:00",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "分类=超市，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "沙州故城遗址",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 94.649745,
+      "lat": 40.129143,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 40.0,
+      "base": 30.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am23",
+      "name": "鸣沙山后山",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.623432,
+      "lat": 40.081044,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 30.0,
+      "effort": "费体力",
+      "effort_reason": "名字含「山、沙山」"
+    },
+    {
+      "id": "am24",
+      "name": "体育公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 94.575871,
+      "lat": 40.116785,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 30.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    }
+  ]
+}

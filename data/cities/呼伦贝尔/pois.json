@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（呼伦贝尔）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "呼伦贝尔",
+  "hotel": {
+    "name": "呼伦贝尔市中心（住宿点）",
+    "lng": 119.77845,
+    "lat": 49.166536
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "呼伦贝尔历史博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.770625,
+      "lat": 49.190206,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am02",
+      "name": "成吉思汗广场",
+      "category": "公园",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 119.771065,
+      "lat": 49.207192,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am03",
+      "name": "世界反法西斯战争海拉尔纪念园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 119.719719,
+      "lat": 49.250216,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "海拉尔区正阳街小学",
+      "category": "小学",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.74493,
+      "lat": 49.202586,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=小学，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "胜利街小学(校本部)",
+      "category": "小学",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.76155,
+      "lat": 49.209575,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=小学，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "文化街小学",
+      "category": "小学",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.732638,
+      "lat": 49.216621,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=小学，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "张宁川天椒麻辣烫(五道街总店)",
+      "category": "特色/地方风味餐厅",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.747252,
+      "lat": 49.218111,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=特色/地方风味餐厅，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "中国邮政储蓄银行(呼伦贝尔市中央街支行)",
+      "category": "中国邮政储蓄银行",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.741812,
+      "lat": 49.217188,
+      "open": "09:00",
+      "close": "16:15",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=中国邮政储蓄银行，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "步森百货大楼",
+      "category": "普通商场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.744701,
+      "lat": 49.213532,
+      "open": "09:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=普通商场，按一般处理"
+    },
+    {
+      "id": "am10",
+      "name": "呼伦贝尔民族博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.76502,
+      "lat": 49.212322,
+      "open": "09:00",
+      "close": "16:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am11",
+      "name": "两河三圣观景点",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.760399,
+      "lat": 49.262196,
+      "open": "08:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "铁木真部落",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.797744,
+      "lat": 49.230787,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "赵一鸣零食(呼伦贝尔草市街店)",
+      "category": "购物相关场所",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.750783,
+      "lat": 49.221089,
+      "open": "08:00",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=购物相关场所，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "赵一鸣省钱超市(内蒙古呼伦贝尔六二六街店)",
+      "category": "便民商店/便利店",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.77199,
+      "lat": 49.214448,
+      "open": "08:00",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 46.5,
+      "effort": "一般",
+      "effort_reason": "分类=便民商店/便利店，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "百花园",
+      "category": "住宅小区",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 119.738562,
+      "lat": 49.193563,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 41.0,
+      "effort": "一般",
+      "effort_reason": "分类=住宅小区，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "万佛寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.767565,
+      "lat": 49.29005,
+      "open": "10:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 41.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 76 米"
+    },
+    {
+      "id": "am17",
+      "name": "李记食味鲜小盘菜馆(西大街小区店)",
+      "category": "中餐厅",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.741711,
+      "lat": 49.210814,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 41.0,
+      "effort": "一般",
+      "effort_reason": "分类=中餐厅，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "海拉尔国家森林公园",
+      "category": "省级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 119.6901,
+      "lat": 49.194746,
+      "open": "08:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "分类=省级景点，按一般处理"
+    },
+    {
+      "id": "am19",
+      "name": "伊敏河文化休闲长廊",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.754482,
+      "lat": 49.190616,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "伊敏河民族公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 119.757538,
+      "lat": 49.213354,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am21",
+      "name": "呼伦贝尔自然博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.679197,
+      "lat": 49.207471,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 35.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am22",
+      "name": "广慧寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.755299,
+      "lat": 49.110037,
+      "open": "08:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am23",
+      "name": "达尔吉林寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.747807,
+      "lat": 49.285696,
+      "open": "08:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 35.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 74 米"
+    },
+    {
+      "id": "am24",
+      "name": "慈积金刚塔",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 119.746376,
+      "lat": 49.290412,
+      "open": "10:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 30.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 104 米"
+    }
+  ]
+}

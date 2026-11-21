@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（拉萨）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "拉萨",
+  "hotel": {
+    "name": "拉萨漫居精品民宿（住宿点）",
+    "lng": 91.151904,
+    "lat": 29.661561
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "布达拉宫",
+      "category": "世界遗产",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 91.118463,
+      "lat": 29.654471,
+      "open": "09:30",
+      "close": "15:20",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "大昭寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.132802,
+      "lat": 29.650209,
+      "open": "08:30",
+      "close": "18:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am03",
+      "name": "扎基寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.142104,
+      "lat": 29.674025,
+      "open": "07:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am04",
+      "name": "西藏博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.098894,
+      "lat": 29.648382,
+      "open": "10:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am05",
+      "name": "色拉寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.134823,
+      "lat": 29.695223,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am06",
+      "name": "南山公园",
+      "category": "旅游景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 91.118424,
+      "lat": 29.63312,
+      "open": "08:00",
+      "close": "18:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "费体力",
+      "effort_reason": "比城市中心高 237 米"
+    },
+    {
+      "id": "am07",
+      "name": "药王山观景台",
+      "category": "旅游景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 91.115081,
+      "lat": 29.652221,
+      "open": "08:30",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "观景台，爬升不大"
+    },
+    {
+      "id": "am08",
+      "name": "罗布林卡",
+      "category": "世界遗产",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.092479,
+      "lat": 29.651619,
+      "open": "09:30",
+      "close": "18:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "哲蚌寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.049889,
+      "lat": 29.673206,
+      "open": "09:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 112 米"
+    },
+    {
+      "id": "am10",
+      "name": "小昭寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.131961,
+      "lat": 29.655917,
+      "open": "08:30",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am11",
+      "name": "西藏拉萨清真大寺",
+      "category": "回教寺",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.138358,
+      "lat": 29.648046,
+      "open": "07:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=回教寺，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "拉萨山庄网红S弯",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 91.148328,
+      "lat": 29.627896,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "名字带山庄，不是山，人工标"
+    },
+    {
+      "id": "am13",
+      "name": "拉鲁湿地国家级自然保护区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 91.094631,
+      "lat": 29.670962,
+      "open": "09:00",
+      "close": "19:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "千佛崖",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.108173,
+      "lat": 29.648321,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "扎叶巴寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.280024,
+      "lat": 29.742659,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 63.0,
+      "effort": "费体力",
+      "effort_reason": "比城市中心高 637 米"
+    },
+    {
+      "id": "am16",
+      "name": "西藏美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 91.041419,
+      "lat": 29.653645,
+      "open": "10:00",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am17",
+      "name": "德吉罗布儿童游乐园",
+      "category": "游乐场",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 91.068174,
+      "lat": 29.627883,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=游乐场"
+    },
+    {
+      "id": "am18",
+      "name": "西藏自然科学博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.182052,
+      "lat": 29.646855,
+      "open": "10:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am19",
+      "name": "雪顿古镇",
+      "category": "住宅区",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.135033,
+      "lat": 29.62047,
+      "open": "08:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 60.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=住宅区，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "拉萨市中华文化公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 91.057143,
+      "lat": 29.630776,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am21",
+      "name": "西藏曼唐艺术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 91.12806,
+      "lat": 29.649795,
+      "open": "10:00",
+      "close": "21:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am22",
+      "name": "帕邦喀",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.118805,
+      "lat": 29.716672,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 179 米"
+    },
+    {
+      "id": "am23",
+      "name": "天堂草原",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 91.158163,
+      "lat": 29.589633,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 46.5,
+      "effort": "费体力",
+      "effort_reason": "比城市中心高 305 米"
+    },
+    {
+      "id": "am24",
+      "name": "太阳岛",
+      "category": "旅游景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 91.117425,
+      "lat": 29.640775,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 46.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    }
+  ]
+}

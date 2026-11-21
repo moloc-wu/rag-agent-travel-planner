@@ -1,0 +1,18 @@
+{
+ "_note": "杭州主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "杭州",
+ "stations": [
+  {
+   "name": "杭州东站",
+   "query": "杭州东",
+   "code": "HGH",
+   "lat": 30.290846,
+   "lng": 120.212605,
+   "address": "天城路1号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

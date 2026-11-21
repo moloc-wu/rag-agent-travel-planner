@@ -1,0 +1,18 @@
+{
+ "_note": "厦门主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "厦门",
+ "stations": [
+  {
+   "name": "厦门北站",
+   "query": "厦门北",
+   "code": "XKS",
+   "lat": 24.636977,
+   "lng": 118.073909,
+   "address": "珩圣路399号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

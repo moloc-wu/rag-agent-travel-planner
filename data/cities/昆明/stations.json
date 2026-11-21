@@ -1,0 +1,18 @@
+{
+ "_note": "昆明主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "昆明",
+ "stations": [
+  {
+   "name": "昆明南站",
+   "query": "昆明南",
+   "code": "KOM",
+   "lat": 24.869978,
+   "lng": 102.86087,
+   "address": "联大街328号(昆明南火车站地铁站A入口步行50米)",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

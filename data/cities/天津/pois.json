@@ -1,0 +1,423 @@
+{
+  "_note": "高德 Web 服务实时检索（天津）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "天津",
+  "hotel": {
+    "name": "天津然居观影民宿（住宿点）",
+    "lng": 117.168437,
+    "lat": 39.077091
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "天津五大道文化旅游区",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.203601,
+      "lat": 39.110567,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "天津博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.211801,
+      "lat": 39.08505,
+      "open": "09:00",
+      "close": "16:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am03",
+      "name": "小白楼",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.21492,
+      "lat": 39.115676,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "天主教天津教区西开总堂",
+      "category": "教堂",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.194015,
+      "lat": 39.118087,
+      "open": "10:00",
+      "close": "12:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=教堂"
+    },
+    {
+      "id": "am05",
+      "name": "周恩来邓颖超纪念馆",
+      "category": "纪念馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.165037,
+      "lat": 39.094145,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=纪念馆"
+    },
+    {
+      "id": "am06",
+      "name": "津湾广场",
+      "category": "商务写字楼",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 117.208008,
+      "lat": 39.131337,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=商务写字楼，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "天津之眼",
+      "category": "游乐场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.186217,
+      "lat": 39.154286,
+      "open": "09:30",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=游乐场"
+    },
+    {
+      "id": "am08",
+      "name": "津一 PARK",
+      "category": "公园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.277753,
+      "lat": 39.094108,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am09",
+      "name": "天津水上公园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 117.167689,
+      "lat": 39.089124,
+      "open": "08:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am10",
+      "name": "天津动物园",
+      "category": "动物园",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 117.16531,
+      "lat": 39.082482,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 180,
+      "ticket": 120.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=动物园"
+    },
+    {
+      "id": "am11",
+      "name": "人民公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 117.218147,
+      "lat": 39.105027,
+      "open": "07:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am12",
+      "name": "五大道公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 117.206556,
+      "lat": 39.116121,
+      "open": "10:00",
+      "close": "20:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am13",
+      "name": "南翠屏公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 117.155093,
+      "lat": 39.076958,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "张园",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 117.191819,
+      "lat": 39.124936,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "棉3创意街区",
+      "category": "产业园区",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 117.246928,
+      "lat": 39.091276,
+      "open": "14:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=产业园区，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "天津古文化街",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.192281,
+      "lat": 39.143853,
+      "open": "09:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "天津·海河意式风情区",
+      "category": "特色商业街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.20028,
+      "lat": 39.136238,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am18",
+      "name": "睦南公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 117.199705,
+      "lat": 39.10714,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am19",
+      "name": "鼓楼",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.181055,
+      "lat": 39.141629,
+      "open": "09:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "中国大戏院(金街店)",
+      "category": "剧场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.202824,
+      "lat": 39.126989,
+      "open": "11:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=剧场"
+    },
+    {
+      "id": "am21",
+      "name": "张爱玲旧居",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.201782,
+      "lat": 39.123368,
+      "open": "10:00",
+      "close": "19:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "水西公园",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 117.119901,
+      "lat": 39.113607,
+      "open": "05:30",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am23",
+      "name": "天津邮政博物馆",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.210789,
+      "lat": 39.127646,
+      "open": "09:00",
+      "close": "16:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am24",
+      "name": "大悲禅院",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 117.190185,
+      "lat": 39.156056,
+      "open": "09:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    }
+  ]
+}

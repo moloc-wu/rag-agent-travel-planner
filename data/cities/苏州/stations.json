@@ -1,0 +1,18 @@
+{
+ "_note": "苏州主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "苏州",
+ "stations": [
+  {
+   "name": "苏州北站",
+   "query": "苏州北",
+   "code": "OHH",
+   "lat": 31.421546,
+   "lng": 120.644306,
+   "address": "城通路",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

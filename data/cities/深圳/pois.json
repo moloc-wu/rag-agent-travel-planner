@@ -1,0 +1,424 @@
+{
+  "_note": "高德 Web 服务实时检索（深圳）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "深圳",
+  "hotel": {
+    "name": "深圳市中心（住宿点）",
+    "lng": 114.057939,
+    "lat": 22.543527
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "深圳湾公园",
+      "category": "公园",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 113.972602,
+      "lat": 22.518968,
+      "open": "06:00",
+      "close": "23:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am02",
+      "name": "海上世界文化艺术中心",
+      "category": "科教文化场所",
+      "tags": [
+        "艺术",
+        "网红打卡"
+      ],
+      "lng": 113.916901,
+      "lat": 22.4802,
+      "open": "10:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=科教文化场所，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "深圳美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术",
+        "网红打卡"
+      ],
+      "lng": 114.023793,
+      "lat": 22.624974,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 80 米"
+    },
+    {
+      "id": "am04",
+      "name": "莲花山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.058673,
+      "lat": 22.553594,
+      "open": "06:00",
+      "close": "23:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "小山坡，走台阶十几分钟"
+    },
+    {
+      "id": "am05",
+      "name": "深圳世界之窗",
+      "category": "国家级景点",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 113.972981,
+      "lat": 22.534662,
+      "open": "09:30",
+      "close": "21:30",
+      "visit_min": 180,
+      "ticket": 200.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "华侨城欢乐海岸",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.987914,
+      "lat": 22.523405,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "关山月美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 114.064243,
+      "lat": 22.549384,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am08",
+      "name": "深圳博物馆新馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.061704,
+      "lat": 22.543674,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am09",
+      "name": "深圳中心公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.079473,
+      "lat": 22.542341,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am10",
+      "name": "笔架山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.080876,
+      "lat": 22.562893,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "费体力",
+      "effort_reason": "整座山都是台阶，人工标"
+    },
+    {
+      "id": "am11",
+      "name": "香蜜公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.022082,
+      "lat": 22.54664,
+      "open": "09:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am12",
+      "name": "A PARK深圳数字艺术公园",
+      "category": "休闲场所",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.0401,
+      "lat": 22.564508,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=休闲场所，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "荔枝公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.102313,
+      "lat": 22.545539,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "深圳国际园林花卉博览园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.003766,
+      "lat": 22.537601,
+      "open": "06:00",
+      "close": "23:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am15",
+      "name": "沙嘴牌坊",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.035615,
+      "lat": 22.519551,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "华强北博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.087311,
+      "lat": 22.544243,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am17",
+      "name": "华侨城创意文化园",
+      "category": "产业园区",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.993477,
+      "lat": 22.537349,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=产业园区，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "红树林海滨生态公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.998082,
+      "lat": 22.522076,
+      "open": "06:00",
+      "close": "23:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am19",
+      "name": "深圳平安金融中心云际观光层",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 114.055174,
+      "lat": 22.533744,
+      "open": "10:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "洪湖公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 114.120393,
+      "lat": 22.565811,
+      "open": "06:00",
+      "close": "23:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am21",
+      "name": "深圳欢乐谷",
+      "category": "游乐场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.980295,
+      "lat": 22.54159,
+      "open": "10:00",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=游乐场"
+    },
+    {
+      "id": "am22",
+      "name": "塘朗山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 113.993789,
+      "lat": 22.571178,
+      "open": "07:30",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "费体力",
+      "effort_reason": "登山道，人工标"
+    },
+    {
+      "id": "am23",
+      "name": "锦绣中华民俗村",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.988741,
+      "lat": 22.530907,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am24",
+      "name": "南山博物馆",
+      "category": "展览馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 113.923887,
+      "lat": 22.535024,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=展览馆"
+    }
+  ]
+}

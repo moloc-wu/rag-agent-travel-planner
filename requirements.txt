@@ -1,0 +1,8 @@
+# 运行依赖（其余全是标准库）
+# 安装：python -m pip install -r requirements.txt
+#
+# 版本下限按实际跑通的版本写，没有卡死上限——这几个库的向后兼容都还行。
+fastapi>=0.110
+uvicorn>=0.27
+pydantic>=2.0
+pymysql>=1.1

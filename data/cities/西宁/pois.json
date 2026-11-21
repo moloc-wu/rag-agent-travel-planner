@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（西宁）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "西宁",
+  "hotel": {
+    "name": "西宁市中心（住宿点）",
+    "lng": 101.758249,
+    "lat": 36.676027
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "青海藏文化博物院",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.747855,
+      "lat": 36.688698,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am02",
+      "name": "大新街夜市",
+      "category": "购物相关场所",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.786945,
+      "lat": 36.621717,
+      "open": "17:30",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=购物相关场所，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "人民公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 101.76281,
+      "lat": 36.63749,
+      "open": "06:30",
+      "close": "20:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am04",
+      "name": "西宁野生动物园",
+      "category": "动物园",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 101.731971,
+      "lat": 36.627022,
+      "open": "08:30",
+      "close": "18:30",
+      "visit_min": 180,
+      "ticket": 120.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 68 米"
+    },
+    {
+      "id": "am05",
+      "name": "青海省博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.756012,
+      "lat": 36.630221,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am06",
+      "name": "西宁东关清真大寺",
+      "category": "回教寺",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.797493,
+      "lat": 36.615341,
+      "open": "08:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=回教寺，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "西宁市博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.75587,
+      "lat": 36.650936,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am08",
+      "name": "西宁植物园",
+      "category": "植物园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 101.744611,
+      "lat": 36.624202,
+      "open": "06:00",
+      "close": "21:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=植物园"
+    },
+    {
+      "id": "am09",
+      "name": "南山公园",
+      "category": "省级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 101.774278,
+      "lat": 36.600351,
+      "open": "06:30",
+      "close": "20:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 134 米"
+    },
+    {
+      "id": "am10",
+      "name": "青海省自然资源博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.725569,
+      "lat": 36.648175,
+      "open": "10:00",
+      "close": "16:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am11",
+      "name": "新华联童梦乐园综合旅游度假区",
+      "category": "游乐场",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 101.565788,
+      "lat": 36.647533,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 80 米"
+    },
+    {
+      "id": "am12",
+      "name": "麒麟湾公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 101.767585,
+      "lat": 36.617209,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am13",
+      "name": "文化公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 101.74507,
+      "lat": 36.643324,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "西宁浦宁之珠",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.74976,
+      "lat": 36.620126,
+      "open": "09:30",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 94 米"
+    },
+    {
+      "id": "am15",
+      "name": "青唐小镇",
+      "category": "住宅小区",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.612472,
+      "lat": 36.661533,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 67 米"
+    },
+    {
+      "id": "am16",
+      "name": "狼窝沟公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 101.737701,
+      "lat": 36.735594,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 103 米"
+    },
+    {
+      "id": "am17",
+      "name": "西宁市烈士陵园",
+      "category": "陵园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 101.765882,
+      "lat": 36.592918,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 50.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 104 米"
+    },
+    {
+      "id": "am18",
+      "name": "罗丹·创意儿童美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 101.799048,
+      "lat": 36.607147,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am19",
+      "name": "创意美学艺术馆",
+      "category": "培训机构",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 101.798825,
+      "lat": 36.631675,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=培训机构，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "人民街街道办事处",
+      "category": "乡镇级政府及事业单位",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.782829,
+      "lat": 36.616144,
+      "open": "08:30",
+      "close": "12:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=乡镇级政府及事业单位，按一般处理"
+    },
+    {
+      "id": "am21",
+      "name": "莫家街美食城",
+      "category": "中餐厅",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.78815,
+      "lat": 36.618313,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=中餐厅，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "大同街小学",
+      "category": "小学",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.781234,
+      "lat": 36.625535,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=小学，按一般处理"
+    },
+    {
+      "id": "am23",
+      "name": "清真·恋茶烘焙(大众街店)",
+      "category": "冷饮店",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 101.802693,
+      "lat": 36.61325,
+      "open": "08:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 57.5,
+      "effort": "一般",
+      "effort_reason": "分类=冷饮店，按一般处理"
+    },
+    {
+      "id": "am24",
+      "name": "海湖广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 101.716023,
+      "lat": 36.645505,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 52.0,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    }
+  ]
+}

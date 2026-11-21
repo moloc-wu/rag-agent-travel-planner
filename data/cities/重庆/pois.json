@@ -1,0 +1,424 @@
+{
+  "_note": "高德 Web 服务实时检索（重庆）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "重庆",
+  "hotel": {
+    "name": "徐州酒店(重庆大礼堂店)（住宿点）",
+    "lng": 106.552826,
+    "lat": 29.559979
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "洪崖洞民俗风貌区",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.579027,
+      "lat": 29.562204,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "重庆中国三峡博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.550513,
+      "lat": 29.562014,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am03",
+      "name": "重庆十八梯传统风貌区",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.573042,
+      "lat": 29.551015,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "魁星楼",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.573618,
+      "lat": 29.560258,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "人民解放纪念碑",
+      "category": "纪念馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.577034,
+      "lat": 29.557204,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=纪念馆"
+    },
+    {
+      "id": "am06",
+      "name": "江北嘴江滩公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 106.57564,
+      "lat": 29.567497,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am07",
+      "name": "周公馆",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.550467,
+      "lat": 29.565389,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "下浩里",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.595746,
+      "lat": 29.557588,
+      "open": "08:30",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "美心文创乐园",
+      "category": "体育休闲服务场所",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 106.551165,
+      "lat": 29.517426,
+      "open": "08:30",
+      "close": "21:30",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=体育休闲服务场所，按一般处理"
+    },
+    {
+      "id": "am10",
+      "name": "鹅岭公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 106.536235,
+      "lat": 29.549688,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am11",
+      "name": "TESTBED2贰厂文创公园",
+      "category": "体育休闲服务场所",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 106.540183,
+      "lat": 29.551101,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=体育休闲服务场所，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "北仓文创街区",
+      "category": "特色商业街",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 106.538685,
+      "lat": 29.578539,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 74 米"
+    },
+    {
+      "id": "am13",
+      "name": "罗汉寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.581619,
+      "lat": 29.559756,
+      "open": "08:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am14",
+      "name": "我在重庆大屏",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.533071,
+      "lat": 29.576559,
+      "open": "07:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "重庆长江索道",
+      "category": "省级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.59241,
+      "lat": 29.553272,
+      "open": "08:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=省级景点，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "长嘉汇弹子石老街",
+      "category": "国家级景点",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 106.588015,
+      "lat": 29.579709,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "湖广会馆",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 106.586915,
+      "lat": 29.557921,
+      "open": "09:00",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "鸿恩寺森林公园",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.507674,
+      "lat": 29.568621,
+      "open": "06:30",
+      "close": "21:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 68 米"
+    },
+    {
+      "id": "am19",
+      "name": "重庆新天地",
+      "category": "商住两用楼宇",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.509397,
+      "lat": 29.553246,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=商住两用楼宇，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "萤火虫港湾猫猫主题公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 106.535656,
+      "lat": 29.52926,
+      "open": "10:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am21",
+      "name": "山城巷传统风貌区",
+      "category": "旅游景点",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 106.568822,
+      "lat": 29.550114,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "老君洞道观",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.602082,
+      "lat": 29.542263,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "费体力",
+      "effort_reason": "比城市中心高 204 米"
+    },
+    {
+      "id": "am23",
+      "name": "南滨路钟楼",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.591817,
+      "lat": 29.572515,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am24",
+      "name": "166舰陈列馆",
+      "category": "展览馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 106.529764,
+      "lat": 29.515735,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=展览馆"
+    }
+  ]
+}

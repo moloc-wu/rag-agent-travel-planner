@@ -1,0 +1,18 @@
+{
+ "_note": "洛阳主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "洛阳",
+ "stations": [
+  {
+   "name": "洛阳龙门站",
+   "query": "洛阳龙门",
+   "code": "LLF",
+   "lat": 34.593842,
+   "lng": 112.456291,
+   "address": "通衢路19号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

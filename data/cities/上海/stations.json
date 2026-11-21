@@ -1,0 +1,18 @@
+{
+ "_note": "上海主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "上海",
+ "stations": [
+  {
+   "name": "上海虹桥站",
+   "query": "上海虹桥",
+   "code": "AOH",
+   "lat": 31.193964,
+   "lng": 121.320081,
+   "address": "新虹街道申贵路1500号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

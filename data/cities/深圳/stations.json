@@ -1,0 +1,18 @@
+{
+ "_note": "深圳主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "深圳",
+ "stations": [
+  {
+   "name": "深圳北站",
+   "query": "深圳北",
+   "code": "IOQ",
+   "lat": 22.609878,
+   "lng": 114.029506,
+   "address": "民治街道北站社区致远中路28号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

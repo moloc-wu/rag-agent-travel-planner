@@ -1,0 +1,425 @@
+{
+  "_note": "高德 Web 服务实时检索（洛阳）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "洛阳",
+  "hotel": {
+    "name": "比邻青年客栈(洛阳龙门站店)（住宿点）",
+    "lng": 112.460061,
+    "lat": 34.600105
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "应天门",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 112.460886,
+      "lat": 34.676011,
+      "open": "09:00",
+      "close": "22:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "白马寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 112.605311,
+      "lat": 34.721828,
+      "open": "07:40",
+      "close": "18:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am03",
+      "name": "洛阳十字街小吃一条街",
+      "category": "餐饮相关",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 112.478954,
+      "lat": 34.682918,
+      "open": "17:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=餐饮相关，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "龙门石窟",
+      "category": "世界遗产",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.477482,
+      "lat": 34.558727,
+      "open": "08:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 80.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=世界遗产，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "洛邑古城",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.485027,
+      "lat": 34.680541,
+      "open": "09:00",
+      "close": "22:30",
+      "visit_min": 90,
+      "ticket": 60.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "洛阳古墓博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.414511,
+      "lat": 34.733086,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 98 米"
+    },
+    {
+      "id": "am07",
+      "name": "隋唐城遗址植物园",
+      "category": "植物园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.448335,
+      "lat": 34.635398,
+      "open": "07:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 40.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=植物园"
+    },
+    {
+      "id": "am08",
+      "name": "从政坊游园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.457846,
+      "lat": 34.634196,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am09",
+      "name": "关林景区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.483366,
+      "lat": 34.607419,
+      "open": "08:30",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am10",
+      "name": "隋唐洛阳城国家遗址公园",
+      "category": "公园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.460318,
+      "lat": 34.679369,
+      "open": "09:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 40.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am11",
+      "name": "王城公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.421575,
+      "lat": 34.666822,
+      "open": "06:00",
+      "close": "21:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am12",
+      "name": "洛阳城市阳台",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.45016,
+      "lat": 34.66115,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "丽景门景区",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.471252,
+      "lat": 34.680899,
+      "open": "08:30",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "隋唐大运河文化博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.493957,
+      "lat": 34.673744,
+      "open": "09:00",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am15",
+      "name": "西苑公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.406739,
+      "lat": 34.65077,
+      "open": "07:00",
+      "close": "21:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am16",
+      "name": "玉泉美食街",
+      "category": "购物相关场所",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.596885,
+      "lat": 34.628005,
+      "open": "10:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=购物相关场所，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "龙翔街美食夜市",
+      "category": "餐饮相关",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.416462,
+      "lat": 34.607519,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=餐饮相关，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "定鼎门南广场",
+      "category": "风景名胜",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 112.466927,
+      "lat": 34.629784,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am19",
+      "name": "神都十三坊",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.474474,
+      "lat": 34.629233,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am20",
+      "name": "洛阳大河荟",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 112.450074,
+      "lat": 34.59337,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am21",
+      "name": "文博体育公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.443892,
+      "lat": 34.644295,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am22",
+      "name": "洛浦公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.423453,
+      "lat": 34.63269,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am23",
+      "name": "洛阳龙门海洋馆",
+      "category": "水族馆",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 112.474132,
+      "lat": 34.591869,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 180,
+      "ticket": 160.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=水族馆"
+    },
+    {
+      "id": "am24",
+      "name": "上阳宫文化园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 112.426562,
+      "lat": 34.645919,
+      "open": "08:00",
+      "close": "21:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    }
+  ]
+}

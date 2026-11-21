@@ -1,0 +1,429 @@
+{
+  "_note": "高德 Web 服务实时检索（上海）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "上海",
+  "hotel": {
+    "name": "青季MINI酒店(上海火车站大悦城店)（住宿点）",
+    "lng": 121.468775,
+    "lat": 31.245175
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "南京路步行街",
+      "category": "购物相关场所",
+      "tags": [
+        "美食",
+        "夜景",
+        "网红打卡"
+      ],
+      "lng": 121.479494,
+      "lat": 31.235983,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=购物相关场所，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "外滩",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 121.492127,
+      "lat": 31.233516,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "浦东美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术",
+        "网红打卡"
+      ],
+      "lng": 121.49631,
+      "lat": 31.238115,
+      "open": "10:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am04",
+      "name": "西岸美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术",
+        "网红打卡"
+      ],
+      "lng": 121.463841,
+      "lat": 31.167682,
+      "open": "11:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am05",
+      "name": "龙华寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 121.451842,
+      "lat": 31.175174,
+      "open": "07:00",
+      "close": "16:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am06",
+      "name": "上海豫园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 121.492497,
+      "lat": 31.227714,
+      "open": "09:00",
+      "close": "16:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "上海新天地",
+      "category": "步行街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.474491,
+      "lat": 31.220351,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=步行街"
+    },
+    {
+      "id": "am08",
+      "name": "东方明珠广播电视塔",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.499718,
+      "lat": 31.239703,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "上海四行仓库抗战纪念馆",
+      "category": "纪念馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.471104,
+      "lat": 31.24034,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=纪念馆"
+    },
+    {
+      "id": "am10",
+      "name": "上海自然博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.462672,
+      "lat": 31.235021,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am11",
+      "name": "LV巨轮",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.462166,
+      "lat": 31.229952,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "静安寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.44532,
+      "lat": 31.223505,
+      "open": "07:30",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am13",
+      "name": "万国建筑博览群",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.489271,
+      "lat": 31.237208,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "外白渡桥",
+      "category": "桥",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.49006,
+      "lat": 31.242896,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=桥，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "北外滩滨江绿地",
+      "category": "公园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.499372,
+      "lat": 31.247461,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am16",
+      "name": "上海中心大厦",
+      "category": "商务写字楼",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.505366,
+      "lat": 31.23351,
+      "open": "08:30",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=商务写字楼，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "上海文化广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 121.462196,
+      "lat": 31.211941,
+      "open": "10:00",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am18",
+      "name": "武康大楼",
+      "category": "住宅小区",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.438278,
+      "lat": 31.20443,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=住宅小区，按一般处理"
+    },
+    {
+      "id": "am19",
+      "name": "玉佛禅寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 121.445125,
+      "lat": 31.241445,
+      "open": "08:00",
+      "close": "16:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am20",
+      "name": "龙美术馆(西岸馆)",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 121.464761,
+      "lat": 31.183954,
+      "open": "10:00",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am21",
+      "name": "上海复星艺术中心",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 121.49797,
+      "lat": 31.226885,
+      "open": "10:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am22",
+      "name": "刘海粟美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 121.419424,
+      "lat": 31.209504,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am23",
+      "name": "上海动物园",
+      "category": "动物园",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 121.363009,
+      "lat": 31.193277,
+      "open": "08:00",
+      "close": "16:30",
+      "visit_min": 180,
+      "ticket": 120.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=动物园"
+    },
+    {
+      "id": "am24",
+      "name": "上海人民广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 121.475213,
+      "lat": 31.228827,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    }
+  ]
+}

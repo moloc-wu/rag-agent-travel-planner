@@ -1,0 +1,35 @@
+{
+  "_note": "示例数据集：长沙 23 个 POI，坐标/开放时间/门票/游玩时长为手工整理的教学用近似值，不是高德实时数据。毕设正式版应替换为高德 POI 检索接口。住宿点取五一广场，因此不再把五一广场本身列为候选景点。",
+  "city": "长沙",
+  "_datum": "wgs84",
+  "hotel": {
+    "name": "五一广场（住宿点）",
+    "lat": 28.1934,
+    "lng": 112.9756
+  },
+  "pois": [
+    {"id": "cs01", "name": "橘子洲", "category": "景区", "tags": ["自然风光", "夜景"], "lat": 28.1838, "lng": 112.9610, "open": "00:00", "close": "24:00", "visit_min": 150, "ticket": 0, "base": 92},
+    {"id": "cs02", "name": "岳麓山", "category": "景区", "tags": ["自然风光", "历史文化"], "lat": 28.1758, "lng": 112.9345, "open": "06:00", "close": "22:00", "visit_min": 180, "ticket": 0, "base": 90},
+    {"id": "cs03", "name": "岳麓书院", "category": "历史", "tags": ["历史文化"], "lat": 28.1770, "lng": 112.9365, "open": "07:30", "close": "18:00", "visit_min": 90, "ticket": 50, "base": 88},
+    {"id": "cs04", "name": "湖南博物院", "category": "博物馆", "tags": ["历史文化", "艺术"], "lat": 28.2121, "lng": 112.9827, "open": "09:00", "close": "17:00", "visit_min": 180, "ticket": 0, "base": 95},
+    {"id": "cs05", "name": "天心阁", "category": "历史", "tags": ["历史文化"], "lat": 28.1802, "lng": 112.9758, "open": "08:00", "close": "17:30", "visit_min": 60, "ticket": 32, "base": 76},
+    {"id": "cs06", "name": "太平老街", "category": "街区", "tags": ["美食", "历史文化"], "lat": 28.1895, "lng": 112.9723, "open": "00:00", "close": "24:00", "visit_min": 90, "ticket": 0, "base": 84},
+    {"id": "cs07", "name": "坡子街", "category": "街区", "tags": ["美食"], "lat": 28.1879, "lng": 112.9715, "open": "10:00", "close": "24:00", "visit_min": 60, "ticket": 0, "base": 82},
+    {"id": "cs09", "name": "长沙IFS国金中心", "category": "商圈", "tags": ["网红打卡", "夜景"], "lat": 28.1920, "lng": 112.9768, "open": "10:00", "close": "22:00", "visit_min": 90, "ticket": 0, "base": 80},
+    {"id": "cs10", "name": "长沙世界之窗", "category": "乐园", "tags": ["亲子"], "lat": 28.2264, "lng": 113.0290, "open": "09:00", "close": "22:00", "visit_min": 240, "ticket": 200, "base": 78},
+    {"id": "cs11", "name": "长沙海底世界", "category": "乐园", "tags": ["亲子"], "lat": 28.2245, "lng": 113.0265, "open": "09:00", "close": "17:30", "visit_min": 150, "ticket": 150, "base": 74},
+    {"id": "cs12", "name": "湖南省森林植物园", "category": "公园", "tags": ["自然风光", "亲子"], "lat": 28.1058, "lng": 113.0930, "open": "08:00", "close": "18:00", "visit_min": 180, "ticket": 0, "base": 80},
+    {"id": "cs13", "name": "洋湖湿地公园", "category": "公园", "tags": ["自然风光"], "lat": 28.1198, "lng": 112.9376, "open": "00:00", "close": "24:00", "visit_min": 150, "ticket": 0, "base": 79},
+    {"id": "cs14", "name": "谢子龙影像艺术馆", "category": "艺术", "tags": ["艺术", "网红打卡"], "lat": 28.1226, "lng": 112.9394, "open": "10:00", "close": "18:00", "visit_min": 90, "ticket": 0, "base": 86},
+    {"id": "cs15", "name": "李自健美术馆", "category": "艺术", "tags": ["艺术"], "lat": 28.1230, "lng": 112.9386, "open": "09:30", "close": "17:30", "visit_min": 90, "ticket": 0, "base": 84},
+    {"id": "cs16", "name": "梅溪湖国际文化艺术中心", "category": "艺术", "tags": ["艺术", "网红打卡", "夜景"], "lat": 28.1806, "lng": 112.8880, "open": "09:00", "close": "22:00", "visit_min": 90, "ticket": 0, "base": 83},
+    {"id": "cs17", "name": "开福寺", "category": "寺庙", "tags": ["历史文化"], "lat": 28.2085, "lng": 112.9762, "open": "06:30", "close": "18:00", "visit_min": 60, "ticket": 10, "base": 72},
+    {"id": "cs18", "name": "长沙简牍博物馆", "category": "博物馆", "tags": ["历史文化"], "lat": 28.1890, "lng": 112.9830, "open": "09:00", "close": "17:00", "visit_min": 60, "ticket": 0, "base": 75},
+    {"id": "cs19", "name": "杜甫江阁", "category": "历史", "tags": ["历史文化", "夜景"], "lat": 28.1864, "lng": 112.9700, "open": "08:30", "close": "22:00", "visit_min": 60, "ticket": 30, "base": 85},
+    {"id": "cs20", "name": "湖南大学红楼", "category": "校园", "tags": ["历史文化"], "lat": 28.1793, "lng": 112.9362, "open": "00:00", "close": "24:00", "visit_min": 60, "ticket": 0, "base": 78},
+    {"id": "cs21", "name": "湘江游船", "category": "夜游", "tags": ["夜景", "网红打卡"], "lat": 28.1900, "lng": 112.9670, "open": "19:00", "close": "21:30", "visit_min": 90, "ticket": 128, "base": 88},
+    {"id": "cs22", "name": "长沙生态动物园", "category": "乐园", "tags": ["亲子"], "lat": 28.0710, "lng": 112.9630, "open": "09:00", "close": "17:00", "visit_min": 180, "ticket": 120, "base": 71},
+    {"id": "cs23", "name": "铜官窑古镇", "category": "古镇", "tags": ["历史文化", "网红打卡"], "lat": 28.4506, "lng": 112.8123, "open": "09:00", "close": "21:00", "visit_min": 240, "ticket": 120, "base": 70},
+    {"id": "cs24", "name": "黄兴路步行街", "category": "街区", "tags": ["美食", "夜景"], "lat": 28.1880, "lng": 112.9740, "open": "10:00", "close": "24:00", "visit_min": 60, "ticket": 0, "base": 77}
+  ]
+}

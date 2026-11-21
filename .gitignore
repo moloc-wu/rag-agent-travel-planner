@@ -1,0 +1,48 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# ===== IDE =====
+.idea/
+.vscode/
+
+# ===== 密钥：绝对不能进版本库 =====
+data/amap_key.txt
+data/qweather_key.txt
+data/db.json
+*.key
+*.pem
+*.token
+
+# ===== 运行期数据库：带账号密码哈希，每次跑都在变 =====
+data/app.db
+data/app.db-journal
+data/app.db-wal
+
+# ===== 生成产物 / 临时文件 =====
+out/
+*.log
+*.tmp
+_shot*.png
+_boot_*.txt
+_bo.txt
+_be.txt
+*.err
+
+# ===== 开发台账 / 内部文档：只在本地，不进仓库 =====
+TODO.md
+BUGS.md
+进度报告_*.md
+需求定义.md
+USER_WALKTHROUGH.md
+
+# ===== 之前那个项目（RAG+AGENT）：不属于本仓库 =====
+RAG+AGENT/
+
+# ===== 历史备份：不进主干，留时间点就够了 =====
+_backup_20261108_demo/
+_backup_20261109_demo/
+_backup_rooms_20261109/
+data/_backup_*/

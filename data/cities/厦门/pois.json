@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（厦门）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "厦门",
+  "hotel": {
+    "name": "厦门SkyFun·天悦海景酒店(中山路轮渡码头店)（住宿点）",
+    "lng": 118.073731,
+    "lat": 24.45658
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "鼓浪屿风景名胜区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 118.06702,
+      "lat": 24.444695,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "厦门园林植物园",
+      "category": "植物园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.109277,
+      "lat": 24.447728,
+      "open": "06:30",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 93 米"
+    },
+    {
+      "id": "am03",
+      "name": "南普陀寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.097143,
+      "lat": 24.442641,
+      "open": "08:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 65 米"
+    },
+    {
+      "id": "am04",
+      "name": "菽庄花园",
+      "category": "旅游景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.06952,
+      "lat": 24.439035,
+      "open": "08:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "黄厝海滩",
+      "category": "海滩",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.1619,
+      "lat": 24.442614,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=海滩，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "厦门山海健康步道",
+      "category": "旅游景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.078283,
+      "lat": 24.481175,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "是步道不是山，人工标"
+    },
+    {
+      "id": "am07",
+      "name": "海湾公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.076287,
+      "lat": 24.473095,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am08",
+      "name": "厦门白鹭洲公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.093828,
+      "lat": 24.473704,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am09",
+      "name": "钟鼓索道",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.094162,
+      "lat": 24.452775,
+      "open": "08:00",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 118 米"
+    },
+    {
+      "id": "am10",
+      "name": "DVLN PaRK退化公园",
+      "category": "咖啡厅",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.086649,
+      "lat": 24.462971,
+      "open": "08:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=咖啡厅，按一般处理"
+    },
+    {
+      "id": "am11",
+      "name": "厦门市博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.109209,
+      "lat": 24.49097,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am12",
+      "name": "沙坡尾",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.088167,
+      "lat": 24.439087,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "厦门世茂双子塔",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.08878,
+      "lat": 24.435612,
+      "open": "10:00",
+      "close": "19:30",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "海沧湾公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.054462,
+      "lat": 24.48805,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am15",
+      "name": "日光岩",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.064542,
+      "lat": 24.441312,
+      "open": "08:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "清水宫",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.113602,
+      "lat": 24.528825,
+      "open": "08:00",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am17",
+      "name": "大德记沙滩",
+      "category": "海滨浴场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.074997,
+      "lat": 24.439959,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=海滨浴场，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "上李水库公园",
+      "category": "旅游景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.129083,
+      "lat": 24.443876,
+      "open": "06:00",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 163 米"
+    },
+    {
+      "id": "am19",
+      "name": "胡里山炮台",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.106383,
+      "lat": 24.429475,
+      "open": "08:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "炮台在缓坡上，人工标"
+    },
+    {
+      "id": "am20",
+      "name": "中山路小吃街",
+      "category": "特色商业街",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.076362,
+      "lat": 24.453405,
+      "open": "09:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am21",
+      "name": "西堤咖啡一条街",
+      "category": "特色商业街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 118.081919,
+      "lat": 24.474493,
+      "open": "10:00",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am22",
+      "name": "萌发地·海野乐园",
+      "category": "体育休闲服务场所",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 118.145517,
+      "lat": 24.428899,
+      "open": "10:00",
+      "close": "21:00",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=体育休闲服务场所，按一般处理"
+    },
+    {
+      "id": "am23",
+      "name": "蛋仔潮玩游乐园",
+      "category": "游乐场",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 118.142164,
+      "lat": 24.512365,
+      "open": "10:00",
+      "close": "22:00",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=游乐场"
+    },
+    {
+      "id": "am24",
+      "name": "狐尾山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 118.086277,
+      "lat": 24.483896,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 63.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    }
+  ]
+}

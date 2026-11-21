@@ -1,0 +1,424 @@
+{
+  "_note": "高德 Web 服务实时检索（哈尔滨）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "哈尔滨",
+  "hotel": {
+    "name": "韵江快捷宾馆(哈尔滨融创乐园店)（住宿点）",
+    "lng": 126.526687,
+    "lat": 45.809702
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "圣·索菲亚教堂",
+      "category": "教堂",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 126.627215,
+      "lat": 45.770125,
+      "open": "08:30",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=教堂"
+    },
+    {
+      "id": "am02",
+      "name": "哈尔滨冰雪大世界",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.566328,
+      "lat": 45.775823,
+      "open": "10:00",
+      "close": "21:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "东北虎林园",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 126.60065,
+      "lat": 45.817483,
+      "open": "08:30",
+      "close": "16:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am04",
+      "name": "哈尔滨市人民防洪胜利纪念塔",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.617203,
+      "lat": 45.780654,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am05",
+      "name": "中华巴洛克历史文化街区",
+      "category": "购物相关场所",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 126.640729,
+      "lat": 45.781791,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=购物相关场所，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "哈药六版画博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.704433,
+      "lat": 45.764998,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am07",
+      "name": "哈尔滨融创乐园",
+      "category": "旅游景点",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 126.505013,
+      "lat": 45.806609,
+      "open": "15:00",
+      "close": "20:30",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "太阳岛风景区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 126.59788,
+      "lat": 45.791584,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am09",
+      "name": "哈尔滨极地公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 126.586479,
+      "lat": 45.785251,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am10",
+      "name": "哈尔滨音乐公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 126.548455,
+      "lat": 45.749011,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am11",
+      "name": "斯大林公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 126.612799,
+      "lat": 45.779383,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am12",
+      "name": "音乐长廊",
+      "category": "城市广场",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.55848,
+      "lat": 45.750571,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am13",
+      "name": "中东铁路桥",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.62594,
+      "lat": 45.784205,
+      "open": "12:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am14",
+      "name": "黑龙江省博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.640934,
+      "lat": 45.757569,
+      "open": "09:00",
+      "close": "16:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am15",
+      "name": "星河湾亲子游乐园(枫叶小镇奥莱店)",
+      "category": "游乐场",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 126.469054,
+      "lat": 45.827745,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 180,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=游乐场"
+    },
+    {
+      "id": "am16",
+      "name": "极乐寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.664588,
+      "lat": 45.777559,
+      "open": "08:00",
+      "close": "15:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am17",
+      "name": "龙塔",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.680189,
+      "lat": 45.748517,
+      "open": "09:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 30.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "哈尔滨工业大学博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.638681,
+      "lat": 45.751436,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am19",
+      "name": "中国木雕馆",
+      "category": "展览馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.562039,
+      "lat": 45.733539,
+      "open": "09:00",
+      "close": "15:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=展览馆"
+    },
+    {
+      "id": "am20",
+      "name": "哈药当代美术馆",
+      "category": "美术馆",
+      "tags": [
+        "艺术"
+      ],
+      "lng": 126.558664,
+      "lat": 45.740699,
+      "open": "09:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=美术馆"
+    },
+    {
+      "id": "am21",
+      "name": "老街滋味坊(直营旗舰店)",
+      "category": "中餐厅",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 126.660607,
+      "lat": 45.771854,
+      "open": "09:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=中餐厅，按一般处理"
+    },
+    {
+      "id": "am22",
+      "name": "偏脸子哈尔滨老烧烤(自兴街店)",
+      "category": "中餐厅",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.606673,
+      "lat": 45.719281,
+      "open": "10:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=中餐厅，按一般处理"
+    },
+    {
+      "id": "am23",
+      "name": "老松滨饭店(菜艺街店)",
+      "category": "中餐厅",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.683041,
+      "lat": 45.734403,
+      "open": "11:00",
+      "close": "21:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=中餐厅，按一般处理"
+    },
+    {
+      "id": "am24",
+      "name": "邢氏老太太烤串(北兴街店)",
+      "category": "特色/地方风味餐厅",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 126.591953,
+      "lat": 45.706383,
+      "open": "10:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=特色/地方风味餐厅，按一般处理"
+    }
+  ]
+}

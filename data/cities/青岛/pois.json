@@ -1,0 +1,428 @@
+{
+  "_note": "高德 Web 服务实时检索（青岛）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "青岛",
+  "hotel": {
+    "name": "金海岸快捷宾馆（住宿点）",
+    "lng": 120.365328,
+    "lat": 36.090163
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "八大关风景区",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 120.350903,
+      "lat": 36.053625,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am02",
+      "name": "青岛啤酒博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 120.347318,
+      "lat": 36.079106,
+      "open": "08:30",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am03",
+      "name": "信号山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光",
+        "网红打卡"
+      ],
+      "lng": 120.331561,
+      "lat": 36.066446,
+      "open": "09:00",
+      "close": "17:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "一般",
+      "effort_reason": "小丘，爬升不大"
+    },
+    {
+      "id": "am04",
+      "name": "中国人民解放军海军博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化",
+        "网红打卡"
+      ],
+      "lng": 120.327714,
+      "lat": 36.054786,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 79.5,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am05",
+      "name": "五四广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.384576,
+      "lat": 36.06274,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am06",
+      "name": "奥林匹克帆船中心·奥帆海洋文化旅游区",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.395063,
+      "lat": 36.054643,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "情人坝",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.390288,
+      "lat": 36.052388,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am08",
+      "name": "青岛中山公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.350415,
+      "lat": 36.064394,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am09",
+      "name": "台东步行街",
+      "category": "步行街",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.354123,
+      "lat": 36.083505,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=步行街"
+    },
+    {
+      "id": "am10",
+      "name": "栈桥景区",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.3193,
+      "lat": 36.061736,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am11",
+      "name": "青岛第一海水浴场",
+      "category": "海滨浴场",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.341325,
+      "lat": 36.057428,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=海滨浴场，按一般处理"
+    },
+    {
+      "id": "am12",
+      "name": "宫崎骏漫画街",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.331135,
+      "lat": 36.063232,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am13",
+      "name": "海之恋Park",
+      "category": "公园",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.434592,
+      "lat": 36.065361,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "天主教青岛教区圣弥厄尔主教座堂天主堂",
+      "category": "教堂",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.320588,
+      "lat": 36.068143,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=教堂"
+    },
+    {
+      "id": "am15",
+      "name": "小青岛公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.323783,
+      "lat": 36.053098,
+      "open": "06:00",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am16",
+      "name": "中国雕塑院·青岛雕塑园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.454678,
+      "lat": 36.079683,
+      "open": "05:00",
+      "close": "20:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "青岛石老人海水浴场",
+      "category": "海滨浴场",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.46801,
+      "lat": 36.09168,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=海滨浴场，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "青岛奥帆海洋文化旅游区",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.3905,
+      "lat": 36.060279,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am19",
+      "name": "青岛湛山寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.36449,
+      "lat": 36.064978,
+      "open": "09:00",
+      "close": "16:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am20",
+      "name": "青岛太平角公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 120.360265,
+      "lat": 36.053038,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am21",
+      "name": "海信探索中心",
+      "category": "科技馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 120.371198,
+      "lat": 36.071157,
+      "open": "08:00",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=科技馆"
+    },
+    {
+      "id": "am22",
+      "name": "青岛市音乐广场",
+      "category": "城市广场",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 120.381085,
+      "lat": 36.058383,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=城市广场"
+    },
+    {
+      "id": "am23",
+      "name": "青岛动物园",
+      "category": "动物园",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 120.34996,
+      "lat": 36.069562,
+      "open": "08:30",
+      "close": "16:30",
+      "visit_min": 180,
+      "ticket": 120.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 88 米"
+    },
+    {
+      "id": "am24",
+      "name": "青岛海底世界",
+      "category": "水族馆",
+      "tags": [
+        "亲子"
+      ],
+      "lng": 120.33602,
+      "lat": 36.057077,
+      "open": "08:30",
+      "close": "17:00",
+      "visit_min": 180,
+      "ticket": 150.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=水族馆"
+    }
+  ]
+}

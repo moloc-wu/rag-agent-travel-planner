@@ -1,0 +1,18 @@
+{
+ "_note": "重庆主要车站坐标（GCJ-02，来自高德 place/text）。「到站 → 酒店」要算路程时用这个，别拿城市中心坐标。",
+ "_source": "amap /v3/place/text",
+ "_datum": "gcj02",
+ "city": "重庆",
+ "stations": [
+  {
+   "name": "重庆北站",
+   "query": "重庆北",
+   "code": "CUW",
+   "lat": 29.609378,
+   "lng": 106.550953,
+   "address": "昆仑大道51号附8号",
+   "source": "amap",
+   "datum": "gcj02"
+  }
+ ]
+}

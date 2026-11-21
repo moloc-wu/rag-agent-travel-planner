@@ -1,0 +1,422 @@
+{
+  "_note": "高德 Web 服务实时检索（西安）：坐标 GCJ-02，评分/营业时间来自 biz_ext。门票为对照表兜底，游览时长为按类型估算。",
+  "_datum": "gcj02",
+  "_source": "amap",
+  "city": "西安",
+  "hotel": {
+    "name": "樱花酒店(西安市中医医院地铁站店)（住宿点）",
+    "lng": 108.965709,
+    "lat": 34.346768
+  },
+  "pois": [
+    {
+      "id": "am01",
+      "name": "回民街",
+      "category": "步行街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.936378,
+      "lat": 34.264587,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=步行街"
+    },
+    {
+      "id": "am02",
+      "name": "西安钟楼",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.94703,
+      "lat": 34.25943,
+      "open": "08:30",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am03",
+      "name": "广仁寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.925865,
+      "lat": 34.274555,
+      "open": "07:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am04",
+      "name": "大唐不夜城",
+      "category": "特色商业街",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.964046,
+      "lat": 34.213866,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am05",
+      "name": "西安城墙",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.946504,
+      "lat": 34.251891,
+      "open": "08:00",
+      "close": "23:00",
+      "visit_min": 90,
+      "ticket": 60.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am06",
+      "name": "《驼铃传奇》秀",
+      "category": "文艺团体",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 109.021706,
+      "lat": 34.352535,
+      "open": "13:00",
+      "close": "18:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=文艺团体，按一般处理"
+    },
+    {
+      "id": "am07",
+      "name": "陕西历史博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.955044,
+      "lat": 34.224199,
+      "open": "08:30",
+      "close": "19:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am08",
+      "name": "兴庆宫公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 108.983538,
+      "lat": 34.253821,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am09",
+      "name": "西安博物院",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.941673,
+      "lat": 34.238589,
+      "open": "08:30",
+      "close": "18:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am10",
+      "name": "西安碑林博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.95286,
+      "lat": 34.254497,
+      "open": "09:00",
+      "close": "18:30",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=博物馆"
+    },
+    {
+      "id": "am11",
+      "name": "德福巷酒吧街",
+      "category": "特色商业街",
+      "tags": [
+        "美食",
+        "夜景"
+      ],
+      "lng": 108.943978,
+      "lat": 34.254746,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 74.0,
+      "effort": "轻松",
+      "effort_reason": "分类=特色商业街"
+    },
+    {
+      "id": "am12",
+      "name": "大兴善寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.943506,
+      "lat": 34.227081,
+      "open": "08:00",
+      "close": "17:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 74.0,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am13",
+      "name": "西安城市运动公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 108.943445,
+      "lat": 34.344373,
+      "open": "09:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am14",
+      "name": "西安后海",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 109.019227,
+      "lat": 34.342591,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am15",
+      "name": "汉长安城未央宫国家考古遗址公园",
+      "category": "风景名胜",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.862168,
+      "lat": 34.302854,
+      "open": "06:00",
+      "close": "22:00",
+      "visit_min": 90,
+      "ticket": 40.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am16",
+      "name": "AR浐灞后海观景平台",
+      "category": "旅游景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 109.024629,
+      "lat": 34.338791,
+      "open": "15:30",
+      "close": "22:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=旅游景点，按一般处理"
+    },
+    {
+      "id": "am17",
+      "name": "米禾农场",
+      "category": "休闲场所",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.887189,
+      "lat": 34.30413,
+      "open": "10:00",
+      "close": "19:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=休闲场所，按一般处理"
+    },
+    {
+      "id": "am18",
+      "name": "西安湖",
+      "category": "风景名胜",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 108.898534,
+      "lat": 34.393063,
+      "open": "00:00",
+      "close": "24:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=风景名胜，按一般处理"
+    },
+    {
+      "id": "am19",
+      "name": "大慈恩寺",
+      "category": "寺庙道观",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.96418,
+      "lat": 34.217954,
+      "open": "08:30",
+      "close": "18:00",
+      "visit_min": 90,
+      "ticket": 20.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=寺庙道观"
+    },
+    {
+      "id": "am20",
+      "name": "西安世博园",
+      "category": "国家级景点",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 109.06116,
+      "lat": 34.322669,
+      "open": "09:00",
+      "close": "22:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am21",
+      "name": "西安浐灞国家湿地公园",
+      "category": "公园",
+      "tags": [
+        "自然风光"
+      ],
+      "lng": 109.005477,
+      "lat": 34.419974,
+      "open": "09:00",
+      "close": "20:00",
+      "visit_min": 150,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=公园"
+    },
+    {
+      "id": "am22",
+      "name": "西安科技馆",
+      "category": "科技馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 109.017533,
+      "lat": 34.382641,
+      "open": "09:30",
+      "close": "17:30",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "轻松",
+      "effort_reason": "分类=科技馆"
+    },
+    {
+      "id": "am23",
+      "name": "大唐西市",
+      "category": "国家级景点",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.907984,
+      "lat": 34.246363,
+      "open": "09:00",
+      "close": "20:00",
+      "visit_min": 90,
+      "ticket": 0.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "分类=国家级景点，按一般处理"
+    },
+    {
+      "id": "am24",
+      "name": "青龙寺遗址博物馆",
+      "category": "博物馆",
+      "tags": [
+        "历史文化"
+      ],
+      "lng": 108.989169,
+      "lat": 34.233511,
+      "open": "09:00",
+      "close": "17:00",
+      "visit_min": 150,
+      "ticket": 40.0,
+      "base": 68.5,
+      "effort": "一般",
+      "effort_reason": "比城市中心高 53 米"
+    }
+  ]
+}
